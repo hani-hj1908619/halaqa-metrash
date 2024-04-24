@@ -1,0 +1,15 @@
+
+.addAnnouncementForm{
+    display: flex;
+    direction: column;
+    padding: 10%;
+    margin: auto;
+}
+
+.image{
+    display: block;
+}
+.clickedImage{
+    display: block;
+    margin-left: 20%;
+}

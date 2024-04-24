@@ -1,0 +1,51 @@
+[
+  {
+    "_id": 501,
+    "username": "abdullahali",
+    "firstName": "Abdullah",
+    "lastName": "Ali",
+    "email": "aa@halaqa.org",
+    "password": "password",
+    "isCoordinator": 1
+  },
+  {
+    "_id": 502,
+    "username": "jassimahmed",
+    "firstName": "Jassim",
+    "lastName": "Ahmed",
+    "email": "ja@halaqa.org",
+    "password": "password",
+    "halaqa": "حلقة تيجان النور",
+    "isCoordinator": 0
+  },
+  {
+    "_id": 503,
+    "username": "khalida",
+    "firstName": "Khalid",
+    "lastName": "Atif",
+    "email": "ka@halaqa.org",
+    "password": "password",
+    "halaqa": "حلقة العبقري الصغير",
+    "isCoordinator": 0
+  },
+  {
+    "_id": 504,
+    "username": "majidahmed",
+    "firstName": "Majid",
+    "lastName": "Ahmed",
+    "email": "ma@halaqa.org",
+    "password": "password",
+    "halaqa": "حلقة نور الوحي",
+    "isCoordinator": 0
+  },
+  {
+    "_id": 505,
+    "username": "salmantamim",
+    "firstName": "Salman",
+    "lastName": "Tamim",
+    "email": "st@halaqa.org",
+    "password": "password",
+    "halaqa": "حلقة صوت الملائكة",
+    "isCoordinator": 0
+  }
+]

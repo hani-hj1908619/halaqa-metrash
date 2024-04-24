@@ -1,0 +1,16 @@
+[
+    {
+        "_id": 1,
+        "title": "No Halaqa tomorrow",
+        "msg": "There will be no halaqa tomorrow due to the national day of Qatar.",
+        "date": "2022-12-17",
+        "image": ""
+    },
+    {
+        "_id": 2,
+        "title": "M_idterm tomorrow",
+        "msg": "M_idterm will be held tomorrow in B02 room 24A. Exam duration is 2 hours and its content will be about surah al-Nas to surah Maryam.",
+        "date": "2022-12-12",
+        "image": ""
+    }
+]

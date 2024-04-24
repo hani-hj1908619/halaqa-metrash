@@ -1,0 +1,95 @@
+[
+    {
+        "_id": 12,
+        "firstName": "Juha",
+        "lastName": "Dahak",
+        "mobile": "7777-888",
+        "email": "juha@test.com",
+        "username": "juha",
+        "password": "password",
+        "students": [
+            {
+                "_id": 1,
+                "firstName": "Ibn Juha",
+                "lastName": "Dahak",
+                "dob": "2009-01-01",
+                "gender": "M",
+                "schoolGrade": 4,
+                "teacherId": 501,
+                "active": true
+            },
+            {
+                "_id": 2,
+                "firstName": "Bint Juha",
+                "lastName": "Dahak",
+                "dob": "2011-05-01",
+                "gender": "F",
+                "schoolGrade": 2,
+                "teacherId": 502,
+                "active": true
+            }
+        ]
+    },
+    {
+        "_id": 34,
+        "firstName": "Abbas",
+        "lastName": "Ibn Firnas",
+        "mobile": "9999-888",
+        "email": "abbas@test.com",
+        "username": "abbas",
+        "password": "password",
+        "students": [
+            {
+                "_id": 3,
+                "firstName": "Ibn Abbas",
+                "lastName": "Ibn Firnas",
+                "dob": "2008-02-01",
+                "gender": "M",
+                "schoolGrade": 5,
+                "teacherId": 501,
+                "active": true
+            },
+            {
+                "_id": 4,
+                "firstName": "Bint Abbas",
+                "lastName": "Ibn Firnas",
+                "dob": "2012-03-01",
+                "gender": "F",
+                "schoolGrade": 2,
+                "teacherId": 502,
+                "active": true
+            }
+        ]
+    },
+    {
+        "_id": 56,
+        "firstName": "Samira",
+        "lastName": "Saghir",
+        "mobile": "9999-888",
+        "email": "samira@test.com",
+        "username": "samira",
+        "password": "password",
+        "students": [
+            {
+                "_id": 5,
+                "firstName": "Ibn Samira",
+                "lastName": "Saghir",
+                "dob": "2007-02-01",
+                "gender": "M",
+                "schoolGrade": 6,
+                "teacherId": 501,
+                "active": true
+            },
+            {
+                "_id": 6,
+                "firstName": "Bint Samira",
+                "lastName": "Saghir",
+                "dob": "2010-05-09",
+                "gender": "F",
+                "schoolGrade": 3,
+                "teacherId": 502,
+                "active": false
+            }
+        ]
+    }
+]
